@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Hund und zwei Katzen auf einem Hügel">
+<defs>
+<clipPath id="rund"><circle cx="60" cy="60" r="58"/></clipPath>
+<clipPath id="katze-l"><ellipse cx="28" cy="70" rx="10" ry="14" fill="#000"/><ellipse cx="28" cy="51" rx="8.5" ry="8.5" fill="#000"/><path d="M20.5 47 L19.5 36 L28 43.5Z" fill="#000"/><path d="M35.5 47 L36.5 36 L28 43.5Z" fill="#000"/></clipPath>
+<clipPath id="katze-r"><ellipse cx="92" cy="70" rx="10" ry="14" fill="#000"/><ellipse cx="92" cy="51" rx="8.5" ry="8.5" fill="#000"/><path d="M84.5 47 L83.5 36 L92 43.5Z" fill="#000"/><path d="M99.5 47 L100.5 36 L92 43.5Z" fill="#000"/></clipPath>
+</defs>
+<circle cx="60" cy="60" r="58" fill="#2B3437"/>
+<g clip-path="url(#rund)">
+<path d="M21 79 Q9 75 12 62" fill="none" stroke="#FFFFFF" stroke-width="3.6" stroke-linecap="round"/>
+<path d="M99 79 Q111 75 108 62" fill="none" stroke="#FFFFFF" stroke-width="3.6" stroke-linecap="round"/>
+<path d="M71 75 Q82 67 78 54" fill="none" stroke="#FFFFFF" stroke-width="4.6" stroke-linecap="round"/>
+<ellipse cx="28" cy="70" rx="10" ry="14" fill="#FFFFFF"/>
+<ellipse cx="28" cy="51" rx="8.5" ry="8.5" fill="#FFFFFF"/>
+<path d="M20.5 47 L19.5 36 L28 43.5Z" fill="#FFFFFF"/>
+<path d="M35.5 47 L36.5 36 L28 43.5Z" fill="#FFFFFF"/>
+<ellipse cx="92" cy="70" rx="10" ry="14" fill="#FFFFFF"/>
+<ellipse cx="92" cy="51" rx="8.5" ry="8.5" fill="#FFFFFF"/>
+<path d="M84.5 47 L83.5 36 L92 43.5Z" fill="#FFFFFF"/>
+<path d="M99.5 47 L100.5 36 L92 43.5Z" fill="#FFFFFF"/>
+<ellipse cx="60" cy="66" rx="14" ry="20" fill="#FFFFFF"/>
+<ellipse cx="60" cy="38" rx="12" ry="12" fill="#FFFFFF"/>
+<ellipse cx="48" cy="39" rx="4.4" ry="9" fill="#D9D6CB" transform="rotate(10 48 39)"/>
+<ellipse cx="72" cy="39" rx="4.4" ry="9" fill="#D9D6CB" transform="rotate(-10 72 39)"/>
+<g clip-path="url(#katze-l)"><ellipse cx="24" cy="46" rx="6" ry="6.5" fill="#14181A"/><ellipse cx="33" cy="66" rx="5.5" ry="7" fill="#14181A"/><ellipse cx="23" cy="77" rx="5" ry="4" fill="#14181A"/></g>
+<g clip-path="url(#katze-r)"><ellipse cx="97" cy="54" rx="5" ry="5" fill="#14181A"/><ellipse cx="87" cy="64" rx="5.5" ry="8" fill="#14181A"/><ellipse cx="96" cy="76" rx="4.5" ry="5" fill="#14181A"/></g>
+<path d="M0 88 Q60 70 120 88 V120 H0Z" fill="#2F6647"/>
+</g>
+</svg>
